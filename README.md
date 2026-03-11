@@ -1,5 +1,5 @@
 # Azure Resource Monitoring
-This project demonstrates the configuration of a secure virtual network environment on Microsoft Azure, designed to allow only HTTPS traffic and provide comprehensive monitoring and alerting. The goal was to create a robust, secure setup while implementing key skills from the AZ-104 certification.
+This project demonstrates the configuration of a secure virtual network environment on Microsoft Azure, designed to allow only HTTPS traffic and provide comprehensive monitoring and alerting. The goal was to create a robust, secure setup while implementing key skills from the AZ-104 certification.  PLEASE NOTE THIS PROJECT IS CURRENTLY IN THE PROCESS OF BEING REWORKED
 
 <h2>Project Overview</h2>
 Objective: Deploy a secure Azure Virtual Network and Virtual Machine with enforced HTTPS access, storage monitoring, and alert configurations.
