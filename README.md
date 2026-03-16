@@ -75,3 +75,8 @@ Virtual Network, Network Security Groups, Virtual Machine, and Storage Account.
 
 Key features:
 List the specific configurations, like HTTPS-only traffic enforcement, alert rules for CPU usage, storage monitoring, scripts and ARM templates for deployment.
+
+<p align="center">
+<img src=""/>
+</p>
+
